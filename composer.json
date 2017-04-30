@@ -1,0 +1,16 @@
+{
+    "name": "anwerjunaid/rhythm",
+    "description": "Migrations in rhythm with your application.",
+    "authors": [
+        {
+            "name": "Junaid Anwer",
+            "email": "junaid.up.in@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rhythmation\\": "src/"
+        }
+    }
+}
